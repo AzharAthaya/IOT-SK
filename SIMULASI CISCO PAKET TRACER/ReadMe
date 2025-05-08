@@ -1,1 +1,21 @@
-panduan
+PRATIKUM SIMULASI SMART HOME MENGGUNAKAN BOARD SBC
+
+A. Software dan Tools: 
+1. Cisco Paket Tracer
+2. Perangkat:
+	- Board SBC
+	- Motion Sensor
+	- Garage Door
+	- Light
+
+B. Penjelasan Alur
+		1.	Sensor Gerakan (IoT0):
+		Sensor mendeteksi gerakan dan mengirimkan sinyal ke pin D00 pada SBC0.
+		2.	SBC-PT (SBC0):
+		•	Pin D00: Menerima sinyal dari sensor gerakan.
+		•	Pin D01: Mengirim sinyal untuk membuka/menutup pintu garasi (IoT1).
+		•	Pin D03: Mengirim sinyal untuk menyalakan/mematikan lampu (IoT2).
+		3.	Garage Door:
+		Pintu garasi membuka atau menutup berdasarkan sinyal dari pin D01 pada SBC.
+		4.	Light (IoT2):
+		Lampu menyala atau mati berdasarkan sinyal dari pin D03 pada SBC.
