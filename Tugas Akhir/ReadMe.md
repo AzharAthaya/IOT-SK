@@ -16,7 +16,8 @@ Kelompok 5
   ![image](https://github.com/user-attachments/assets/6e551c5f-5311-411f-901f-1a8dbb27f4e4)
   ![image](https://github.com/user-attachments/assets/a6c58e04-604d-41dc-bf61-d607120c34c5)
   ![image](https://github.com/user-attachments/assets/b580ba88-7cb5-476d-8bc4-c828cd0e9732)
-  ![image](https://github.com/user-attachments/assets/adc3ccd9-f11a-4964-815c-dd22fc34ea39)
+  ![image](https://github.com/user-attachments/assets/7d7edad2-1fb4-4ebb-85d7-db00c00c25fa)
+
   
 
 
